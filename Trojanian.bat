@@ -16,7 +16,7 @@
  exit
  :no robux
  echo but you need robux...lol
- echo Activated force shutdown.
+ echo hi
  :loop
  start
  start
